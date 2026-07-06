@@ -1,0 +1,2 @@
+npx create-next-app@latest . --typescript --tailwind --eslint --app --yes
+npm install @supabase/supabase-js @supabase/auth-ui-react @supabase/auth-ui-shared lucide-react date-fns
